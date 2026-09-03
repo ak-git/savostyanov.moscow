@@ -117,7 +117,7 @@ p {
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -127,7 +127,7 @@ p {
   user-select: none;
   border: 1px solid #754ef9;
   padding: 0 40px;
-  font-size: 15px;
+  font-size: 24px;
   line-height: 48px;
   border-radius: 50px;
   color: #fff;
@@ -141,7 +141,7 @@ p {
   -webkit-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
   -moz-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
   box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-  background-color: #754ef9;
+  background-color: orangered;
   text-transform: uppercase; }
   .main-btn:hover {
     background-color: #fff;
